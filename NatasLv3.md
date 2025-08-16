@@ -1,4 +1,4 @@
-## # LV3 🚩
+# LV3 🚩
 When accessing the web page, I received the same message as in the previous challenge:
 ![image](https://github.com/user-attachments/assets/b7633acf-6520-4df8-ba03-cd7cf009f1d5)
 I tried clicking **view page source** to inspect the source code, just like before:

@@ -1,4 +1,4 @@
-## # LV4 🔐
+# LV4 🔐
 In this challenge, we receive a message:
 ![image](https://github.com/user-attachments/assets/e1f63eea-d470-4d7e-befe-232550886b05)
 The line `"while authorized users should come only from http://natas5.natas.labs.overthewire.org/"` tells us that we will only be authorized if our request originates from that link.

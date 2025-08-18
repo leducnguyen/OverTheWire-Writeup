@@ -65,4 +65,6 @@ I also noticed the following line in the source:
 
 The page displayed the password for the next level:  
 
-```yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB```
+```
+yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
+```

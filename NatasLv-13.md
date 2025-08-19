@@ -14,6 +14,7 @@ I uploaded a normal image and intercepted the request using **Burp Suite**:
 To bypass this, I crafted a file starting with valid image header bytes but injected a malicious PHP payload:  
 ```php
 <?php system('cat /etc/natas_webpass/natas14'); ?>
+```
 I renamed the file with a .php extension and uploaded it successfully:
 <img width="1486" height="754" alt="image" src="https://github.com/user-attachments/assets/5f65d683-4c5f-4c67-a67c-8eb9bc9505bc" />
 Then I visited the uploaded file path shown in the server response, and the PHP code executed, revealing the password:

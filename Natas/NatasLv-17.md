@@ -45,7 +45,9 @@ And the result was:
 <img width="728" height="268" alt="image" src="https://github.com/user-attachments/assets/492b003c-6621-48df-95f3-da90fc736581" />
 
 ✨ Password revealed:
+
+
  ```
-6OG1PbKdVjyBlprgj4DDbRG6ZLlCFgCj
+6OG1PbKdVjyBlpxgD4DDbRG6ZLlCGgCJ
 
 ```

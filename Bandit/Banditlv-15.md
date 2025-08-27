@@ -1,4 +1,4 @@
-🔐 **Level 15**
+🔐 **Level 14**
 
 From the previous level, we already obtained the password for **bandit14** using:  
 

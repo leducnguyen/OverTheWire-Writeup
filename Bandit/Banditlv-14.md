@@ -10,6 +10,7 @@ When prompted, we paste the previous level’s password, and the service returns
 
 <img width="337" height="80" alt="image" src="https://github.com/user-attachments/assets/5353783f-9c4d-4b81-85ff-cb902d1de7a3" />
 ✨ Password for Bandit16:
+
 ```
 kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 ```

@@ -1,4 +1,4 @@
-🔐 **Level 18**
+🔐 **Level 17**
 
 After logging into the server, we find two files: **`passwords.new`** and **`passwords.old`**. The hint says the correct password is in the **`.new`** file, and the two files differ only slightly.  
 <img width="407" height="769" alt="image" src="https://github.com/user-attachments/assets/2c976c99-38cb-4edd-bced-f437a639096a" />
